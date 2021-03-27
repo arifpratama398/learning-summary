@@ -1,0 +1,19 @@
+{
+  "name": "self-learning",
+  "version": "0.0.1",
+  "description": "Summary from self learning, not really matters.",
+  "main": "index.js",
+  "authors": {
+    "name": "Arif Naga Pratama",
+    "email": "arifpratama398@gmail.com"
+  },
+  "repository": "https://github.com/arifpratama398/learning-summary.git/self-learning",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
